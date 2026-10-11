@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-10-10",
+  "stations": [
+    {
+      "id": "1",
+      "name": "Rhema Stereo",
+      "frequency": "91.7 FM",
+      "genre": "Música Cristiana",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_rhema_stereo",
+      "streamUrl": "https://radio.fiberstreams.com:8710/stream",
+      "fallbackUrls": ["http://radio.fiberstreams.com:8710/;", "https://radio.fiberstreams.com:8710/;"]
+    },
+    {
+      "id": "2",
+      "name": "La Grande",
+      "frequency": "99.3 FM",
+      "genre": "Pop Latino",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_la_grande",
+      "streamUrl": "https://stream.zeno.fm/3qzxcbhm8ueuv"
+    },
+    {
+      "id": "3",
+      "name": "Radio Viva",
+      "frequency": "95.3 FM",
+      "genre": "Música Variada",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_radio_viva",
+      "streamUrl": "https://stream-10.zeno.fm/uus2ugdadkhvv",
+      "fallbackUrls": ["https://stream.zeno.fm/uus2ugdadkhvv", "http://stream-10.zeno.fm/uus2ugdadkhvv"]
+    },
+    {
+      "id": "4",
+      "name": "Emisoras Unidas",
+      "frequency": "89.7 FM",
+      "genre": "Noticias & Deportes",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_emisoras_unidas",
+      "streamUrl": "https://stream.zenolive.com/tfcgfdag9ueuv"
+    },
+    {
+      "id": "5",
+      "name": "Radio Congreso",
+      "frequency": "105.7 FM",
+      "genre": "Noticias & Política",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_radio_congreso",
+      "streamUrl": "http://streamingcwsradio30.com:8110/",
+      "nota": "Verificar: el servidor se identifica como 'AutoDJ Stream' genérico"
+    },
+    {
+      "id": "6",
+      "name": "Exa FM",
+      "frequency": "101.7 FM",
+      "genre": "Pop & Hits",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_exa_fm",
+      "streamUrl": "https://stream.zeno.fm/8yd6smtusnhvv"
+    },
+    {
+      "id": "7",
+      "name": "Radio Punto",
+      "frequency": "90.5 FM",
+      "genre": "Noticias & Deportes",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_radio_punto",
+      "streamUrl": "https://stream.zeno.fm/23qq0dvusnhvv"
+    },
+    {
+      "id": "11",
+      "name": "Radio Globo",
+      "frequency": "98.9 FM",
+      "genre": "Pop Latino & Baladas",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_radio_globo",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/GLOBO_989.mp3"
+    },
+    {
+      "id": "10",
+      "name": "Yosi Sideral",
+      "frequency": "90.1 FM",
+      "genre": "Música Variada",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_yosi_sideral",
+      "streamUrl": "https://stream.zenolive.com/tepnkutf9ueuv"
+    },
+    {
+      "id": "12",
+      "name": "Fabu Estéreo",
+      "frequency": "88.1 FM",
+      "genre": "Música Romántica & Pop",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_fabu_estereo",
+      "streamUrl": "https://stream.zenolive.com/b88k8b9f9ueuv"
+    },
+    {
+      "id": "13",
+      "name": "Galaxia La Picosa",
+      "frequency": "88.5 FM",
+      "genre": "Grupera & Tropical",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_galaxia_la_picosa",
+      "streamUrl": "https://c34.radioboss.fm:8805/galaxia"
+    },
+    {
+      "id": "14",
+      "name": "Tropicalida",
+      "frequency": "104.9 FM",
+      "genre": "Tropical & Salsa",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_tropicalida",
+      "streamUrl": "https://rfcm.streamguys1.com/tropicalida",
+      "fallbackUrls": ["https://rfcm.streamguys1.com/tropicalida.mp3", "https://rfcm.streamguys1.com/secure-tropicalida-11115-mp3"],
+      "nota": "Las 3 URLs responden 404 desde oct-2026; buscar stream actual"
+    },
+    {
+      "id": "15",
+      "name": "Radio Mega",
+      "frequency": "107.7 FM",
+      "genre": "Reggaeton & Urban",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_radio_mega",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_MEGA.mp3",
+      "fallbackUrls": ["https://playerservices.streamtheworld.com/api/livestream-redirect/LA_MEGAAAC.aac"]
+    },
+    {
+      "id": "16",
+      "name": "Radio Cultural TGN",
+      "frequency": "100.5 FM",
+      "genre": "Música Cristiana & Cultural",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_radio_cultural_tgn",
+      "streamUrl": "https://stream.infinityhdstream.com/7054/stream",
+      "fallbackUrls": ["http://stream.infinityhdstream.com:7054/stream", "http://stream.infinityhdstream.com:7054/;"]
+    },
+    {
+      "id": "17",
+      "name": "Radio Conred",
+      "frequency": "En línea",
+      "genre": "Noticias & Prevención",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_radio_conred",
+      "streamUrl": "http://conred.gob.gt:8000/conred.aac",
+      "fallbackUrls": ["http://conred.gob.gt:8000/conred"]
+    },
+    {
+      "id": "18",
+      "name": "Kiss FM",
+      "frequency": "97.7 FM",
+      "genre": "Pop Clásico en Inglés (70s-90s)",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_kiss_fm",
+      "streamUrl": "https://stream.zenolive.com/1sgzkhhm8ueuv"
+    },
+    {
+      "id": "19",
+      "name": "Atmósfera",
+      "frequency": "96.5 FM",
+      "genre": "Pop en Inglés",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_atmosfera",
+      "streamUrl": "https://stream.zenolive.com/wbqp37gm8ueuv"
+    },
+    {
+      "id": "20",
+      "name": "Clásica Siento2.5",
+      "frequency": "102.5 FM",
+      "genre": "Pop Clásico & Recuerdos",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_clasica_siento",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASICA_1065AAC.aac",
+      "nota": "Antes 'Clásica 102.5'; su sitio ya se presenta como 'Siento2.5 FM'"
+    },
+    {
+      "id": "21",
+      "name": "La Red",
+      "frequency": "106.1 FM",
+      "genre": "Noticias & Deportes",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_la_red",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac"
+    },
+    {
+      "id": "22",
+      "name": "Mía",
+      "frequency": "93.7 FM",
+      "genre": "Música Romántica",
+      "city": "Ciudad de Guatemala",
+      "logo": "",
+      "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIAAAC.aac"
+    },
+    {
+      "id": "23",
+      "name": "Caribean FM",
+      "frequency": "105.1 FM",
+      "genre": "Tropical & Urbana",
+      "city": "Guatemala",
+      "logo": "logo_caribean_fm",
+      "streamUrl": "https://sh4.radioonlinehd.com:8547/stream"
+    },
+    {
+      "id": "24",
+      "name": "TGW La Voz de Guatemala",
+      "frequency": "107.3 FM",
+      "genre": "Noticias & Cultural",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_tgw",
+      "streamUrl": "https://stream.radiotgw.gob.gt/8002/stream"
+    },
+    {
+      "id": "25",
+      "name": "Radio Universidad",
+      "frequency": "92.1 FM",
+      "genre": "Noticias & Cultural",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_radio_universidad",
+      "streamUrl": "https://stream.zeno.fm/xqbz7b86a0quv"
+    },
+    {
+      "id": "26",
+      "name": "Stereo 100",
+      "frequency": "100.3 FM",
+      "genre": "Pop Latino & Noticias",
+      "city": "Quetzaltenango",
+      "logo": "logo_stereo_100",
+      "streamUrl": "https://sh1.radioonlinehd.com:8056/stream?type=.mp3"
+    },
+    {
+      "id": "27",
+      "name": "Emisoras Unidas Quetzaltenango",
+      "frequency": "91.1 FM",
+      "genre": "Noticias & Deportes",
+      "city": "Quetzaltenango",
+      "logo": "logo_emisoras_unidas",
+      "streamUrl": "https://stream.zeno.fm/0zashcvc9zquv"
+    },
+    {
+      "id": "28",
+      "name": "Emisoras Unidas Cobán",
+      "frequency": "91.1 FM",
+      "genre": "Noticias & Deportes",
+      "city": "Cobán",
+      "logo": "logo_emisoras_unidas",
+      "streamUrl": "https://stream.zeno.fm/3tfg0vng9ueuv"
+    },
+    {
+      "id": "29",
+      "name": "Radio Sololá",
+      "frequency": "88.7 FM",
+      "genre": "Pop & Éxitos",
+      "city": "Sololá",
+      "logo": "logo_radio_solola",
+      "streamUrl": "https://sh1.radioonlinehd.com:8039/stream"
+    },
+    {
+      "id": "30",
+      "name": "Azúcar Jutiapa",
+      "frequency": "99.9 FM",
+      "genre": "Grupera & Urbana",
+      "city": "Jutiapa",
+      "logo": "",
+      "streamUrl": "https://radiostreamingaac.com:8570/azucarjutiapa"
+    },
+    {
+      "id": "31",
+      "name": "Azúcar Zacapa",
+      "frequency": "96.7 FM",
+      "genre": "Grupera & Cumbia",
+      "city": "Zacapa",
+      "logo": "logo_azucar_zacapa",
+      "streamUrl": "https://radiostreamingaac.com:8568/azucarzacapa"
+    },
+    {
+      "id": "32",
+      "name": "Solar Jutiapa",
+      "frequency": "98.3 FM",
+      "genre": "Reggaeton & Éxitos",
+      "city": "Jutiapa",
+      "logo": "",
+      "streamUrl": "https://radiostreamingaac.com:8562/solarjutiapa"
+    },
+    {
+      "id": "33",
+      "name": "Solar Petén",
+      "frequency": "104.9 FM",
+      "genre": "Reggaeton & Éxitos",
+      "city": "Petén",
+      "logo": "",
+      "streamUrl": "https://radiostreamingaac.com:8566/solarpeten"
+    },
+    {
+      "id": "34",
+      "name": "Radio María Guatemala",
+      "frequency": "En línea",
+      "genre": "Cristiana Católica",
+      "city": "Guatemala",
+      "logo": "logo_radio_maria",
+      "streamUrl": "http://dreamsiteradiocp.com:8072/stream"
+    },
+    {
+      "id": "35",
+      "name": "Emaús Radio",
+      "frequency": "En línea",
+      "genre": "Cristiana Católica",
+      "city": "Guatemala",
+      "logo": "",
+      "streamUrl": "https://sh2.radioonlinehd.com:8141/;"
+    },
+    {
+      "id": "36",
+      "name": "Estéreo Santa Sión",
+      "frequency": "En línea",
+      "genre": "Música Cristiana",
+      "city": "Guatemala",
+      "logo": "logo_santa_sion",
+      "streamUrl": "https://radio015.gt.gt/radio/8000/live.mp3"
+    },
+    {
+      "id": "37",
+      "name": "Radio Activa",
+      "frequency": "95.1 FM",
+      "genre": "Cristiana Católica",
+      "city": "Chimaltenango",
+      "logo": "",
+      "streamUrl": "https://sh4.radioonlinehd.com:8557/stream"
+    },
+    {
+      "id": "38",
+      "name": "Estéreo Gerardi",
+      "frequency": "107.9 FM",
+      "genre": "Cristiana & Comunitaria",
+      "city": "Guatemala",
+      "logo": "",
+      "streamUrl": "https://aler.org:8445/gerardi.mp3"
+    },
+    {
+      "id": "39",
+      "name": "Eventos Católicos Radio",
+      "frequency": "940 AM",
+      "genre": "Cristiana Católica",
+      "city": "Guatemala",
+      "logo": "logo_eventos_catolicos",
+      "streamUrl": "https://stream.zeno.fm/1g9cduy10bruv"
+    }
+  ]
+}
