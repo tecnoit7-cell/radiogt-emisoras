@@ -137,16 +137,6 @@
       "nota": "Stream del reproductor de su sitio actual radioculturaltgn.tv (oct-2026). Los servidores viejos (infinityhdstream, serverinfinity) ya no responden"
     },
     {
-      "id": "17",
-      "name": "Radio Conred",
-      "frequency": "En línea",
-      "genre": "Noticias & Prevención",
-      "city": "Ciudad de Guatemala",
-      "logo": "logo_radio_conred",
-      "streamUrl": "http://conred.gob.gt:8000/conred.aac",
-      "fallbackUrls": ["http://conred.gob.gt:8000/conred"]
-    },
-    {
       "id": "18",
       "name": "Kiss FM",
       "frequency": "97.7 FM",
