@@ -133,8 +133,8 @@
       "genre": "Música Cristiana & Cultural",
       "city": "Ciudad de Guatemala",
       "logo": "logo_radio_cultural_tgn",
-      "streamUrl": "https://stream.infinityhdstream.com/7054/stream",
-      "fallbackUrls": ["http://stream.infinityhdstream.com:7054/stream", "http://stream.infinityhdstream.com:7054/;"]
+      "streamUrl": "https://play14.tikast.com:20142/stream",
+      "nota": "Stream del reproductor de su sitio actual radioculturaltgn.tv (oct-2026). Los servidores viejos (infinityhdstream, serverinfinity) ya no responden"
     },
     {
       "id": "17",
