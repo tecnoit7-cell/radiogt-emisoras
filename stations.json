@@ -344,6 +344,106 @@
       "city": "Guatemala",
       "logo": "logo_eventos_catolicos",
       "streamUrl": "https://stream.zeno.fm/1g9cduy10bruv"
+    },
+    {
+      "id": "40",
+      "name": "Sonora",
+      "frequency": "96.9 FM",
+      "genre": "Noticias & Deportes",
+      "city": "Ciudad de Guatemala",
+      "logo": "",
+      "streamUrl": "https://ddycmnicl95kp.cloudfront.net/live/6on6zmhisqhm/master.m3u8",
+      "nota": "Chapin Radio (Albavisión): stream oficial de chapinradio.com, oct-2026"
+    },
+    {
+      "id": "41",
+      "name": "Fiesta",
+      "frequency": "103.7 FM",
+      "genre": "Pop & Reggaeton Juvenil",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_fiesta",
+      "streamUrl": "https://ddycmnicl95kp.cloudfront.net/live/h8fdwk021ch2/master.m3u8",
+      "nota": "Chapin Radio (Albavisión): stream oficial de chapinradio.com, oct-2026"
+    },
+    {
+      "id": "42",
+      "name": "Joya",
+      "frequency": "92.9 FM",
+      "genre": "Música Romántica en Español",
+      "city": "Ciudad de Guatemala",
+      "logo": "",
+      "streamUrl": "https://ddycmnicl95kp.cloudfront.net/live/5zgdqpigoa9d/master.m3u8",
+      "nota": "Chapin Radio (Albavisión): stream oficial de chapinradio.com, oct-2026"
+    },
+    {
+      "id": "43",
+      "name": "Ranchera",
+      "frequency": "95.7 FM",
+      "genre": "Grupera, Norteña & Banda",
+      "city": "Ciudad de Guatemala",
+      "logo": "",
+      "streamUrl": "https://ddycmnicl95kp.cloudfront.net/live/051kh1xde9ws/master.m3u8",
+      "nota": "Chapin Radio (Albavisión): stream oficial de chapinradio.com, oct-2026"
+    },
+    {
+      "id": "44",
+      "name": "Alfa",
+      "frequency": "97.3 FM",
+      "genre": "Romántica & Pop",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_alfa",
+      "streamUrl": "https://ddycmnicl95kp.cloudfront.net/live/r0nwiyol2l12/master.m3u8",
+      "nota": "Chapin Radio (Albavisión): stream oficial de chapinradio.com, oct-2026"
+    },
+    {
+      "id": "45",
+      "name": "La Marca",
+      "frequency": "94.1 FM",
+      "genre": "Reggaeton, Banda & Cumbia",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_la_marca",
+      "streamUrl": "https://ddycmnicl95kp.cloudfront.net/live/x9til9l95v7l/master.m3u8",
+      "nota": "Chapin Radio (Albavisión): stream oficial de chapinradio.com, oct-2026"
+    },
+    {
+      "id": "46",
+      "name": "Xtrema",
+      "frequency": "101.3 FM",
+      "genre": "Mixes & Electrónica con DJs",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_xtrema",
+      "streamUrl": "https://ddycmnicl95kp.cloudfront.net/live/8bp8yay2zaog/master.m3u8",
+      "nota": "Chapin Radio (Albavisión): stream oficial de chapinradio.com, oct-2026"
+    },
+    {
+      "id": "47",
+      "name": "Éxitos",
+      "frequency": "90.9 FM",
+      "genre": "Música Variada",
+      "city": "Ciudad de Guatemala",
+      "logo": "logo_exitos",
+      "streamUrl": "https://ddycmnicl95kp.cloudfront.net/live/yff15vi5xsxi/master.m3u8",
+      "nota": "Chapin Radio (Albavisión): stream oficial de chapinradio.com, oct-2026. Género aproximado: no encontré su formato confirmado"
+    },
+    {
+      "id": "48",
+      "name": "Flix Xela",
+      "frequency": "93.9 FM",
+      "genre": "Música Variada",
+      "city": "Quetzaltenango",
+      "logo": "",
+      "streamUrl": "https://ddycmnicl95kp.cloudfront.net/live/bc0guefb9qsv/master.m3u8",
+      "nota": "Chapin Radio (Albavisión): stream oficial de chapinradio.com, oct-2026. Género aproximado: no encontré su formato confirmado"
+    },
+    {
+      "id": "49",
+      "name": "Éxitos Xela",
+      "frequency": "107.1 FM",
+      "genre": "Música Variada",
+      "city": "Quetzaltenango",
+      "logo": "",
+      "streamUrl": "https://ddycmnicl95kp.cloudfront.net/live/vk54lkazkyxg/master.m3u8",
+      "nota": "Chapin Radio (Albavisión): stream oficial de chapinradio.com, oct-2026. Frecuencia según chapinradio.com (algunos directorios dicen 92.3). Género aproximado"
     }
   ]
 }
