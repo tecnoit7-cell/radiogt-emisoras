@@ -43,12 +43,12 @@
     {
       "id": "5",
       "name": "Radio Congreso",
-      "frequency": "105.7 FM",
+      "frequency": "En línea",
       "genre": "Noticias & Política",
       "city": "Ciudad de Guatemala",
       "logo": "logo_radio_congreso",
-      "streamUrl": "http://streamingcwsradio30.com:8110/",
-      "nota": "Verificar: el servidor se identifica como 'AutoDJ Stream' genérico"
+      "streamUrl": "https://streamingcwsradio30.com:7055/stream",
+      "nota": "URL del reproductor oficial congreso.gob.gt/live_radio (oct-2026). Solo transmite por internet, no en FM. El stream se llama 'AutoDJ Stream'"
     },
     {
       "id": "6",
@@ -102,18 +102,19 @@
       "genre": "Grupera & Tropical",
       "city": "Ciudad de Guatemala",
       "logo": "logo_galaxia_la_picosa",
-      "streamUrl": "https://c34.radioboss.fm:8805/galaxia"
+      "streamUrl": "https://c34.radioboss.fm:8805/galaxia",
+      "fallbackUrls": ["https://ddycmnicl95kp.cloudfront.net/live/3r10218cqvb6/master.m3u8"]
     },
     {
       "id": "14",
-      "name": "Tropicalida",
+      "name": "Tropicálida",
       "frequency": "104.9 FM",
       "genre": "Tropical & Salsa",
       "city": "Ciudad de Guatemala",
       "logo": "logo_tropicalida",
-      "streamUrl": "https://rfcm.streamguys1.com/tropicalida",
-      "fallbackUrls": ["https://rfcm.streamguys1.com/tropicalida.mp3", "https://rfcm.streamguys1.com/secure-tropicalida-11115-mp3"],
-      "nota": "Las 3 URLs responden 404 desde oct-2026; buscar stream actual"
+      "streamUrl": "https://ddycmnicl95kp.cloudfront.net/live/5hic8sbcobol/master.m3u8",
+      "fallbackUrls": ["https://d3487bptzruln7.cloudfront.net/hls/5hic8sbcobol/2/index.m3u8"],
+      "nota": "Stream HLS oficial de chapinradio.com (tropicalida.com.gt redirige ahí), oct-2026"
     },
     {
       "id": "15",
