@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-10-14",
+  "updated": "2026-11-09",
   "stations": [
     {
       "id": "1",
@@ -179,7 +179,7 @@
       "frequency": "93.7 FM",
       "genre": "Música Romántica",
       "city": "Ciudad de Guatemala",
-      "logo": "",
+      "logo": "logo_mia",
       "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIA_SC"
     },
     {
@@ -341,7 +341,7 @@
       "frequency": "96.9 FM",
       "genre": "Noticias & Deportes",
       "city": "Ciudad de Guatemala",
-      "logo": "",
+      "logo": "logo_sonora",
       "streamUrl": "https://ddycmnicl95kp.cloudfront.net/live/6on6zmhisqhm/master.m3u8",
       "nota": "Chapin Radio (Albavisión): stream oficial de chapinradio.com, oct-2026"
     },
@@ -434,6 +434,17 @@
       "logo": "",
       "streamUrl": "https://ddycmnicl95kp.cloudfront.net/live/vk54lkazkyxg/master.m3u8",
       "nota": "Chapin Radio (Albavisión): stream oficial de chapinradio.com, oct-2026. Frecuencia según chapinradio.com (algunos directorios dicen 92.3). Género aproximado"
+    },
+    {
+      "id": "50",
+      "name": "Radio Circuito San Juan",
+      "frequency": "810 AM",
+      "genre": "Noticias & Cultural",
+      "city": "San Juan Sacatepéquez",
+      "logo": "logo_radio_circuito_san_juan",
+      "streamUrl": "http://200.6.211.210:8000/;",
+      "fallbackUrls": ["http://200.6.211.210:8000/stream"],
+      "nota": "SHOUTcast AAC+ 48 kbps, solo HTTP. Stream del reproductor oficial (medios.gt / radiocircuitosanjuan.com), nov-2026"
     }
   ]
 }
